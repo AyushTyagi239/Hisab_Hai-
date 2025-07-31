@@ -3,7 +3,8 @@
 Your Personal Assistant for Tracking Expenses, Tasks & More
 
 <img width="1180" height="556" alt="image" src="https://github.com/user-attachments/assets/e6b5b445-e60f-409b-9b29-cc5cddf825ed" />
-<img width="596" height="204" alt="image" src="https://github.com/user-attachments/assets/33aae035-70c0-4234-b6fb-15fc9e2e7e91" />
+<img width="596" height="397" alt="image" src="https://github.com/user-attachments/assets/8664e8cc-a5be-41c7-9c5b-c8c0800858e5" />
+
 <img width="1228" height="411" alt="image" src="https://github.com/user-attachments/assets/d7bb3ac1-559f-4359-b82e-2cbf88e5a8e9" />
 
 
