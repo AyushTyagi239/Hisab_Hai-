@@ -1,9 +1,8 @@
 export default {
   providers: [
     {
-     
-      domain: "https://finer-frog-87.clerk.accounts.dev" ,
+      domain: "https://evolved-gelding-43.clerk.accounts.dev", 
       applicationID: "convex",
     },
-  ]
+  ],
 };
